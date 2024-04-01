@@ -1,7 +1,8 @@
 import os
 import streamlit as st
-import requests
+from openai import OpenAI
 
+client = OpenAI(api_key="my-open-ai-key") 
 
 def fetch_air_quality_data(city):
     try:
