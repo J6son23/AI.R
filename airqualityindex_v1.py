@@ -1,8 +1,10 @@
 import os
+import openai
 import streamlit as st
+import requests
 from openai import OpenAI
 
-client = OpenAI(api_key="my-open-ai-key") 
+client = OpenAI(api_key='my-api-key-here')
 
 def fetch_air_quality_data(city):
     try:
@@ -40,3 +42,4 @@ st.markdown("# Real-time Air Quality Index 🌬️")
 st.sidebar.markdown("# Real-time Air Quality Index 🌬️")
 
 main()
+
