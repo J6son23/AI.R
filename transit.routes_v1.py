@@ -1,5 +1,8 @@
+import os
+import openai
+import streamlit as st
 import requests
-
+from openai import OpenAI
 def get_transit_directions(origin, destination, api_key):
     url = "https://maps.googleapis.com/maps/api/directions/json"
     params = {
