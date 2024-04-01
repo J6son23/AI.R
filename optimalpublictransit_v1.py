@@ -1,7 +1,7 @@
 from openai import OpenAI
 import streamlit as st 
 
-client = OpenAI(api_key = "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")
+client = OpenAI(api_key = "my-api-key-here")
 
 def get_directions(prompt, model = "gpt-3.5-turbo"):
     response = client.chat.completions.create(
