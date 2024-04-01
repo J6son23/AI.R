@@ -8,7 +8,7 @@ client = OpenAI(api_key='my-api-key-here')
 
 def fetch_air_quality_data(city):
     try:
-        url = f"https://api.airvisual.com/v2/city?city={city}&state=California&country=USA&key=c415eb39-eed4-4363-bef2-a7dff7be5ee5"
+        url = f"https://api.airvisual.com/v2/city?city={city}&state=California&country=USA&key=airvisual-api-key"
         response = requests.get(url)
         if response.status_code == 200:
             data = response.json()
