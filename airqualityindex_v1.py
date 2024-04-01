@@ -20,24 +20,18 @@ def fetch_air_quality_data(city):
         st.error(f"Error occurred: {e}")
         return None
 
-
 def main():
     st.write("Enter your city to check the air quality index:")
-
     city = st.text_input("Enter city name:", "San Jose")
-
     if st.button("Check Air Quality"):
         with st.spinner("Fetching air quality data..."):
             data = fetch_air_quality_data(city)
-        
         if data:
-          
             aqi = data["data"]["current"]["pollution"]["aqius"]
             main_pollutant = data["data"]["current"]["pollution"]["mainus"]
-
             st.write(f"Air Quality Index (AQI): {aqi}")
             st.write(f"Main Pollutant: {main_pollutant}")
-
+            
 st.markdown("# Real-time Air Quality Index 🌬️")
 st.sidebar.markdown("# Real-time Air Quality Index 🌬️")
 
