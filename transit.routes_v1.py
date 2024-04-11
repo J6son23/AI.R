@@ -20,5 +20,5 @@ origin = "Starting Point"
 destination = "Destination"
 api_key = "YOUR_API_KEY"
 
-directions_data = get_transit_directions(Starting Point, origin, destination, directions, api_key)
+directions_data = get_transit_directions(origin, directions, api_key)
 print(directions_data)
