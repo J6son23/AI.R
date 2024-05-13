@@ -12,7 +12,7 @@ A Streamlit app that provides users with real-time data regarding air pollution 
 
 **AIR**
 
-Emphasizes the use of AI technology to provide various solutions and information on the topic of air quality and cleaner air.
+Our project name incorporates both our mission as well as our chatbot solution. **“AI”** represents the use of AI to generate our chatbot and **“AIR”** represents the aim for better air quality. It emphasizes the use of AI technology to provide various solutions and information on the topic of air quality and cleaner air.
 
 ## Why AI.R?
 
