@@ -6,7 +6,7 @@
 
 ## Overview
 
-A Streamlit app that provides users with real-time data regarding air pollution and solutions to improve air quality. Informs those who are concerned about the environment.
+A Streamlit chatbot app that provides users with real-time data regarding air pollution and solutions to improve air quality. Informs those who are concerned about the environment.
 
 ## What is AI.R?
 
@@ -25,7 +25,7 @@ We offer:
 
 ## The Solution
 
-We developed an app on Streamlit that leverages AI to combat air pollution and promote sustainability in our local community. It has three main functions: 
+We developed a chabot app on Streamlit that leverages AI to combat air pollution and promote sustainability in our local community. It has three main functions: 
 1) An air quality monitoring service that displays real-time AQI and pollution levels for various cities, allowing users to compare data across multiple locations.
 2) A NLP generator that provides recommendations on three solutions (Industrial/Energy solutions, Public Transportation Solutions, and Urban Planning / Green Spaces) based on the user's city/state.
 3) A public transit routing system that uses real-life data from Google Maps to display the best routes for users to take to reduce their carbon footprint while traveling within their city.
