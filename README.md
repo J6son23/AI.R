@@ -1,5 +1,7 @@
 # AI.R
 
+![Alt Text](/Project_Vid.gif)
+
 ##
 
 ## Overview
@@ -31,7 +33,7 @@ We developed an app on Streamlit that leverages AI to combat air pollution and p
 Through AI utilization and the use of real-time data, it aims to make users more aware of their environmental impact and make more sustainable choices in their daily lives. By providing personalized recommendations and empowering users with information, it introduces a more eco-friendly and hands-on approach to reducing carbon emissions. 
 
 ## Demo Video
-[![ClickHere]()]() 
+[![ClickHere](https://media.discordapp.net/attachments/1217894472109522944/1239449747958530068/IMG_5356.jpg?ex=6642f707&is=6641a587&hm=ef825ffcdd8b9f1c86d97668c6d7919ec0295e3028da06c95c4dd280a428aca5&=&format=webp&width=883&height=662)](https://www.youtube.com/watch?v=sauFwfJUFu4) 
 
 
 
