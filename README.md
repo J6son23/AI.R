@@ -6,7 +6,7 @@
 
 ## Overview
 
-An Streamlit app that provides users with 24/7 data regarding air pollution and solutions to improve air quality. Informs those who are concerned about the environment.
+A Streamlit app that provides users with 24/7 data regarding air pollution and solutions to improve air quality. Informs those who are concerned about the environment.
 
 ## What is AI.R?
 
