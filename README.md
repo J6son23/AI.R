@@ -2,8 +2,6 @@
 
 ![Alt Text](/demo.gif)
 
-##
-
 ## Overview
 
 A Streamlit chatbot app that provides users with real-time data regarding air pollution and solutions to improve air quality. Informs those who are concerned about the environment.
