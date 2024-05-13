@@ -1,6 +1,6 @@
 # AI.R
 
-![Alt Text](/Project_Vid.gif)
+![Alt Text](/demo.gif)
 
 ##
 
